@@ -42,4 +42,5 @@
     <integer name="key_code_utility_keyboard">-120</integer>
 
     <integer name="key_code_delete_word">-7</integer>
+    <integer name="key_code_delete_word_smart">-14</integer>
 </resources>
