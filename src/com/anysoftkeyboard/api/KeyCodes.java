@@ -1,6 +1,6 @@
 package com.anysoftkeyboard.api;
 
-public class KeyCodes {
+public class  KeyCodes {
 
     public static final int SPACE = 32;
     public static final int ENTER = 10;
@@ -9,6 +9,7 @@ public class KeyCodes {
 
     public static final int DELETE = -5;
     public static final int DELETE_WORD = -7;
+    public static final int DELETE_WORD_SMART = -14;
 
     public static final int QUICK_TEXT = -10;
     public static final int QUICK_TEXT_POPUP = -102;
