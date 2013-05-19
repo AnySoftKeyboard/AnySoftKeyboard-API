@@ -52,6 +52,7 @@ Copyright (C) 2013 Menny Even-Danan
         <attr name="android:isModifier"/>
         <!-- Whether this is a toggle key. -->
         <attr name="android:isSticky"/>
+
         <!-- Whether long-pressing on this key will make it repeat. -->
         <attr name="android:isRepeatable"/>
         <!-- The icon to show in the popup preview. -->
@@ -66,6 +67,9 @@ Copyright (C) 2013 Menny Even-Danan
              requested keyboard mode, the key will be skipped. -->
         <attr name="android:keyboardMode"/>
 
+        <!-- Whether should show preview. -->
+        <attr name="showPreview"/>
+        
         <attr name="longPressCode"/>
 
         <attr name="isFunctional"/>
