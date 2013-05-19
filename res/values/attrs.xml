@@ -54,6 +54,7 @@
         <attr name="android:isSticky"/>
         <!-- Whether long-pressing on this key will make it repeat. -->
         <attr name="android:isRepeatable"/>
+
         <!-- The icon to show in the popup preview. -->
         <attr name="android:iconPreview"/>
         <!-- The string of characters to output when this key is pressed. -->
@@ -71,6 +72,9 @@
         <attr name="isFunctional" format="boolean"/>
 
         <attr name="shiftedCodes" format="integer|string"/>
+        
+        <!-- Whether should show preview. -->
+        <attr name="showPreview" format="boolean"/>
     </declare-styleable>
 
     <declare-styleable name="AnyKeyboardBaseView">
