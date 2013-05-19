@@ -1,6 +1,6 @@
 package com.anysoftkeyboard.api;
 
-public class KeyCodes {
+public class  KeyCodes {
 
     public static final int SPACE = 32;
     public static final int ENTER = 10;

@@ -36,7 +36,7 @@
     <integer name="key_code_clipboard">-12</integer>
     <integer name="key_code_cancel">-3</integer>
 
-    <integer name="key_code_split_layout">-110</integer>
+    <integer name="key_code_split_layout" >-110</integer>
     <integer name="key_code_merge_layout">-111</integer>
 
     <integer name="key_code_utility_keyboard">-120</integer>
